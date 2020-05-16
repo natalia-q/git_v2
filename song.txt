@@ -12,3 +12,5 @@ Nothin' scares me anymore
 finish
 
 f1
+
+f2
